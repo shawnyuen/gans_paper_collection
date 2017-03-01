@@ -9,3 +9,6 @@
 ### Semantic Segmentation Using Adversarial Networks [[paper]](https://arxiv.org/abs/1611.08408)
 ### StackGAN Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.03242)
 ### Photo-realistic Single Image Super-resolution Using a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1609.04802)
+
+## 2017
+### Adversarial Networks for the Detection of Aggressive Prostate Cancer [[paper]](https://arxiv.org/abs/1702.08014)
