@@ -40,6 +40,7 @@
 ### Unsupervised Learning for Physical Interaction through Video Prediction [[paper]](https://arxiv.org/abs/1605.07157)
 ### Generating Videos with Scene Dynamics [[paper]](https://arxiv.org/abs/1609.02612)
 ### Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1604.04382)
+### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
