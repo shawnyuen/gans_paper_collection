@@ -51,3 +51,4 @@
 ### Unsupervised Image-to-image Translation with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.02676)
 ### Adversarial Networks for the Detection of Aggressive Prostate Cancer [[paper]](https://arxiv.org/abs/1702.08014)
 ### Generative Adversarial Residual Pairwise Networks for One Shot Learning [[paper]](https://arxiv.org/abs/1703.08033)
+### GP-GAN Towards Realistic High-resolution Image Blending [[paper]](https://arxiv.org/abs/1703.07195)
