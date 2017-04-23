@@ -58,3 +58,4 @@
 ### On the Effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1704.03971)
 ### Beyond Face Rotation Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[paper]](https://arxiv.org/abs/1704.04086)
 ### Neural Face Editing with Intrinsic Image Disentangling [[paper]](https://arxiv.org/abs/1704.04131)
+### DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [[paper]](https://arxiv.org/abs/1704.02510)
