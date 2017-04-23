@@ -53,3 +53,4 @@
 ### Generative Adversarial Residual Pairwise Networks for One Shot Learning [[paper]](https://arxiv.org/abs/1703.08033)
 ### GP-GAN Towards Realistic High-resolution Image Blending [[paper]](https://arxiv.org/abs/1703.07195)
 ### Image De-raining Using a Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1701.05957)
+### Semi-latent GAN Learning to Generate and Modify Facial Images from Attributes [[paper]](https://arxiv.org/abs/1704.02166)
