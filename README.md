@@ -59,3 +59,4 @@
 ### Beyond Face Rotation Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis [[paper]](https://arxiv.org/abs/1704.04086)
 ### Neural Face Editing with Intrinsic Image Disentangling [[paper]](https://arxiv.org/abs/1704.04131)
 ### DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [[paper]](https://arxiv.org/abs/1704.02510)
+### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10593)
