@@ -44,6 +44,7 @@
 ### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 ### Learning Temporal Transformations from Time-lapse Videos [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_16)
 ### Improved Techniques for Training GANs [[paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)
+### Mode Regularized Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.02136)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
