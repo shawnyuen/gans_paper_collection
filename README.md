@@ -61,3 +61,5 @@
 ### Neural Face Editing with Intrinsic Image Disentangling [[paper]](https://arxiv.org/abs/1704.04131)
 ### DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [[paper]](https://arxiv.org/abs/1704.02510)
 ### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10593)
+### Face Aging With Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.01983)
+
