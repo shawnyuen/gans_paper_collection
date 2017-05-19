@@ -67,4 +67,4 @@
 ### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10593)
 ### Face Aging With Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.01983)
 ### Outline Colorization through Tandem Adversarial Networks [[paper]](https://arxiv.org/abs/1704.08834)
-
+### Real-Time Adaptive Image Compression [[paper]](https://arxiv.org/abs/1705.05823)
