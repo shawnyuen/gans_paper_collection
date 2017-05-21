@@ -49,6 +49,7 @@
 ### Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts
 ### Adversarially Learned Inference [[paper]](https://openreview.net/pdf?id=B1ElR4cgg) [[code]](https://github.com/IshmaelBelghazi/ALI)
 ### Adversarial Feature Learning [[paper]](https://arxiv.org/abs/1605.09782)
+### EnhanceNet Single Image Super-Resolution through Automated Texture Synthesis [[paper]](https://arxiv.org/abs/1612.07919)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
