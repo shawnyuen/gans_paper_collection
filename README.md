@@ -70,3 +70,5 @@
 ### Face Aging With Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.01983)
 ### Outline Colorization through Tandem Adversarial Networks [[paper]](https://arxiv.org/abs/1704.08834)
 ### Real-Time Adaptive Image Compression [[paper]](https://arxiv.org/abs/1705.05823)
+### Improved Training of Wasserstein GANs [[paper]](https://arxiv.org/abs/1704.00028) [[code]](https://github.com/igul222/improved_wgan_training)
+### The Cramer Distance as a Solution to Biased Wasserstein Gradients [[paper]](https://arxiv.org/abs/1705.10743) [[code]](https://github.com/jiamings/cramer-gan)
