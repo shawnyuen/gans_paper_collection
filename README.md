@@ -72,3 +72,7 @@
 ### Real-Time Adaptive Image Compression [[paper]](https://arxiv.org/abs/1705.05823)
 ### Improved Training of Wasserstein GANs [[paper]](https://arxiv.org/abs/1704.00028) [[code]](https://github.com/igul222/improved_wgan_training)
 ### The Cramer Distance as a Solution to Biased Wasserstein Gradients [[paper]](https://arxiv.org/abs/1705.10743) [[code]](https://github.com/jiamings/cramer-gan)
+### Video Imagination from a Single Image with Transformation Generation [[paper]](https://arxiv.org/abs/1706.04124)
+### Perceptual Generative Adversarial Networks for Small Object Detection [[paper]](https://arxiv.org/abs/1706.05274)
+### TextureGAN Controlling Deep Image Synthesis with Texture Patches [[paper]](https://arxiv.org/abs/1706.02823)
+### Interactive 3D Modeling with a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1706.05170)
