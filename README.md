@@ -76,3 +76,4 @@
 ### Perceptual Generative Adversarial Networks for Small Object Detection [[paper]](https://arxiv.org/abs/1706.05274)
 ### TextureGAN Controlling Deep Image Synthesis with Texture Patches [[paper]](https://arxiv.org/abs/1706.02823)
 ### Interactive 3D Modeling with a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1706.05170)
+### Bayesian Conditional Generative Adverserial Networks [[paper]](https://arxiv.org/abs/1706.05477)
