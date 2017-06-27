@@ -14,7 +14,7 @@
 ## 2016
 ### Image-to-image Translation with Conditional Adversarial Networks [[paper]](https://arxiv.org/abs/1611.07004) [[Torch code]](https://github.com/phillipi/pix2pix) [[TF code]](https://github.com/affinelayer/pix2pix-tensorflow)
 ### Semantic Segmentation Using Adversarial Networks [[paper]](https://arxiv.org/abs/1611.08408)
-### StackGAN Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.03242)
+### StackGAN Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.03242) [[code]](https://github.com/hanzhanggit/StackGAN)
 ### Photo-realistic Single Image Super-resolution Using a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1609.04802)
 ### Generating Images with Perceptual Similarity Metrics based on Deep Networks [[paper]](https://arxiv.org/abs/1602.02644)
 ### Generating Images with Recurrent Adversarial Networks [[paper]](https://arxiv.org/abs/1602.05110)
