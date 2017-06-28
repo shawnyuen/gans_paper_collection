@@ -77,3 +77,4 @@
 ### TextureGAN Controlling Deep Image Synthesis with Texture Patches [[paper]](https://arxiv.org/abs/1706.02823)
 ### Interactive 3D Modeling with a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1706.05170)
 ### Bayesian Conditional Generative Adverserial Networks [[paper]](https://arxiv.org/abs/1706.05477)
+### Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis [[paper]](https://arxiv.org/abs/1706.08789)
