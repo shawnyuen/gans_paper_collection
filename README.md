@@ -80,3 +80,4 @@
 ### Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis [[paper]](https://arxiv.org/abs/1706.08789)
 ### Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1706.09318) [[Keras+TF code]](https://bitbucket.org/woalsdnd/v-gan)
 ### Perceptual Adversarial Networks for Image-to-Image Transformation [[paper]](https://arxiv.org/abs/1706.09138)
+### Adversarial Image Alignment and Interpolation [[paper]](https://arxiv.org/abs/1707.00067)
