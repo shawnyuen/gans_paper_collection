@@ -52,6 +52,7 @@
 ### EnhanceNet Single Image Super-Resolution through Automated Texture Synthesis [[paper]](https://arxiv.org/abs/1612.07919)
 ### One-to-Many Network for Visually Pleasing Compression Artifacts Reduction [[paper]](https://arxiv.org/abs/1611.04994)
 ### Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring [[paper]](https://arxiv.org/abs/1612.02177) [[Torch code]](https://github.com/SeungjunNah/DeepDeblur_release)
+### Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05424)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
