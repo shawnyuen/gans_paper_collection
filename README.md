@@ -87,3 +87,4 @@
 ### Generalization and Equilibrium in Generative Adversarial Nets (GANs) [[paper]](https://arxiv.org/abs/1703.00573)
 ### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 ### Self Adversarial Training for Human Pose Estimation [[paper]](https://arxiv.org/abs/1707.02439)
+### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
