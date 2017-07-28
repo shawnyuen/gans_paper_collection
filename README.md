@@ -88,3 +88,4 @@
 ### SegAN Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[paper]](https://arxiv.org/abs/1706.01805)
 ### Self Adversarial Training for Human Pose Estimation [[paper]](https://arxiv.org/abs/1707.02439)
 ### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
+### AlignGAN Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.01400)
