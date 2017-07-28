@@ -90,3 +90,4 @@
 ### Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[paper]](https://arxiv.org/abs/1707.08037)
 ### AlignGAN Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.01400)
 ### High-Quality Face Image SR Using Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.00737)
+### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
