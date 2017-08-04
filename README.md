@@ -93,3 +93,5 @@
 ### Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1707.05392)
 ### Virtual PET Images from CT Data Using Deep Convolutional Networks Initial Results [[paper]](https://arxiv.org/abs/1707.09585)
 ### Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[paper]](https://arxiv.org/abs/1707.09747)
+### Deep MR to CT Synthesis using Unpaired Data [[paper]](https://arxiv.org/abs/1708.01155)
+### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
