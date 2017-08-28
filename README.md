@@ -100,3 +100,4 @@
 ### Stabilizing Training of Generative Adversarial Networks through Regularization [[paper]](https://arxiv.org/abs/1705.09367)
 ### GANs for Biological Image Synthesis [[paper]](https://arxiv.org/abs/1708.04692)
 ### Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[paper]](https://arxiv.org/abs/1708.06453)
+### Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[paper]](https://arxiv.org/abs/1707.03124)
