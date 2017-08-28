@@ -29,6 +29,7 @@
 ### Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [[paper]](https://arxiv.org/abs/1605.09304)
 ### Adversarial Feature Learning [[paper]](https://arxiv.org/abs/1605.09782)
 ### Semantic Image Inpainting with Perceptual and Contextual Losses [[paper]](https://arxiv.org/abs/1607.07539)
+#### "Semantic Image Inpainting with Deep Generative Models" the same as the above but different title.
 ### Context Encoders: Feature Learning by Inpainting [[paper]](https://arxiv.org/abs/1604.07379)
 ### Semi-supervised Learning with Context-conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1611.06430)
 ### Robust LSTM-autoencoders for Face De-occlusion in the Wild [[paper]](https://arxiv.org/abs/1612.08534)
