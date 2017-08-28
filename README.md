@@ -98,3 +98,4 @@
 ### Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[paper]](https://arxiv.org/abs/1708.00961)
 ### Bayesian GAN [[paper]](https://arxiv.org/abs/1705.09558)
 ### Stabilizing Training of Generative Adversarial Networks through Regularization [[paper]](https://arxiv.org/abs/1705.09367)
+### GANs for Biological Image Synthesis [[paper]](https://arxiv.org/abs/1708.04692)
