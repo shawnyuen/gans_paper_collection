@@ -102,3 +102,4 @@
 ### Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[paper]](https://arxiv.org/abs/1708.06453)
 ### Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[paper]](https://arxiv.org/abs/1707.03124)
 ### Adversarial Training and Dilated Convolutions for Brain MRI Segmentation [[paper]](https://arxiv.org/abs/1707.03195)
+### Aesthetic-Driven Image Enhancement by Adversarial Learning [[paper]](https://arxiv.org/abs/1707.05251)
