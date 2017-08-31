@@ -103,3 +103,4 @@
 ### Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[paper]](https://arxiv.org/abs/1707.03124)
 ### Adversarial Training and Dilated Convolutions for Brain MRI Segmentation [[paper]](https://arxiv.org/abs/1707.03195)
 ### Aesthetic-Driven Image Enhancement by Adversarial Learning [[paper]](https://arxiv.org/abs/1707.05251)
+### Adversarial nets with perceptual losses for text-to-image synthesis [[paper]](https://arxiv.org/abs/1708.09321)
