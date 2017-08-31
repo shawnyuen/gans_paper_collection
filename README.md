@@ -104,3 +104,4 @@
 ### Adversarial Training and Dilated Convolutions for Brain MRI Segmentation [[paper]](https://arxiv.org/abs/1707.03195)
 ### Aesthetic-Driven Image Enhancement by Adversarial Learning [[paper]](https://arxiv.org/abs/1707.05251)
 ### Adversarial nets with perceptual losses for text-to-image synthesis [[paper]](https://arxiv.org/abs/1708.09321)
+### Simultaneously Color-Depth Super-Resolution with Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1708.09105)
