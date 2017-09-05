@@ -108,3 +108,4 @@
 ### Adversarial PoseNet A Structure-aware Convolutional Network for Human Pose Estimation [[paper]](https://arxiv.org/abs/1705.00389)
 ### Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB [[paper]](https://arxiv.org/abs/1709.00265)
 ### ARIGAN: Synthetic Arabidopsis Plants using Generative Adversarial Network [[paper]](https://arxiv.org/abs/1709.00938)
+### Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.00753)
