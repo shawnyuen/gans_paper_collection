@@ -111,3 +111,4 @@
 ### Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.00753)
 ### Synthetic Medical Images from Dual Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.01872)
 ### Learning Loss for Knowledge Distillation with Conditional Adversarial Networks [[papaer]](https://arxiv.org/abs/1709.00513)
+### Conditional Generative Adversarial Networks for Speech Enhancement and Noise-Robust Speaker Verification [[paper]](https://arxiv.org/abs/1709.01703)
