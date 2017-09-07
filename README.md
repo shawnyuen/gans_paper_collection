@@ -109,4 +109,5 @@
 ### Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB [[paper]](https://arxiv.org/abs/1709.00265)
 ### ARIGAN: Synthetic Arabidopsis Plants using Generative Adversarial Network [[paper]](https://arxiv.org/abs/1709.00938)
 ### Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.00753)
+### Synthetic Medical Images from Dual Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.01872)
 ### Learning Loss for Knowledge Distillation with Conditional Adversarial Networks [[papaer]](https://arxiv.org/abs/1709.00513)
