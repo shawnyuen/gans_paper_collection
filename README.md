@@ -114,3 +114,5 @@
 ### Conditional Generative Adversarial Networks for Speech Enhancement and Noise-Robust Speaker Verification [[paper]](https://arxiv.org/abs/1709.01703)
 ### Towards Understanding Adversarial Learning for Joint Distribution Matching [[paper]](https://arxiv.org/abs/1709.01215)
 ### Generative Semantic Manipulation with Contrasting GAN [[paper]](https://arxiv.org/abs/1708.00315)
+### Deep Generative Filter for Motion Deblurring [[paper]](https://arxiv.org/abs/1709.03481)
+### Improving Heterogeneous Face Recognition with Conditional Adversarial Networks [[paper]](https://arxiv.org/abs/1709.02848)
