@@ -118,3 +118,4 @@
 ### Improving Heterogeneous Face Recognition with Conditional Adversarial Networks [[paper]](https://arxiv.org/abs/1709.02848)
 ### Exposure A White-Box Photo Post-Processing Framework [[paper]](https://arxiv.org/abs/1709.09602)
 ### A Study of Cross-domain Generative Models applied to Cartoon Series [[paper]](https://arxiv.org/abs/1710.00755)
+### Fisher GAN [[paper]](https://arxiv.org/abs/1705.09675)
