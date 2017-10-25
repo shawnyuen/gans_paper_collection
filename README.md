@@ -119,4 +119,5 @@
 ### Exposure A White-Box Photo Post-Processing Framework [[paper]](https://arxiv.org/abs/1709.09602)
 ### A Study of Cross-domain Generative Models applied to Cartoon Series [[paper]](https://arxiv.org/abs/1710.00755)
 ### Fisher GAN [[paper]](https://arxiv.org/abs/1705.09675)
-### Neural Stain-Style Transfer Learning using GAN for Histopathological Images 2017 [[paper]](https://arxiv.org/abs/1710.08543)
+### Neural Stain-Style Transfer Learning using GAN for Histopathological Images [[paper]](https://arxiv.org/abs/1710.08543)
+### Many Paths to Equilibrium GANs Do Not Need to Decrease aDivergence At Every Step [[paper]](https://arxiv.org/abs/1710.08446)
