@@ -122,3 +122,4 @@
 ### Neural Stain-Style Transfer Learning using GAN for Histopathological Images [[paper]](https://arxiv.org/abs/1710.08543)
 ### Many Paths to Equilibrium GANs Do Not Need to Decrease aDivergence At Every Step [[paper]](https://arxiv.org/abs/1710.08446)
 ### Progressive Growing of GANs for Improved Quality, Stability, and Variation [[paper]](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf) [[code]](https://github.com/tkarras/progressive_growing_of_gans)
+### Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.08810)
