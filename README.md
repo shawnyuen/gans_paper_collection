@@ -124,3 +124,4 @@
 ### Progressive Growing of GANs for Improved Quality, Stability, and Variation [[paper]](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf) [[code]](https://github.com/tkarras/progressive_growing_of_gans)
 ### Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1709.08810)
 ### Generative Adversarial Network based on Resnet for Conditional Image Restoration [[paper]](https://arxiv.org/abs/1707.04881)
+### Face Transfer with Generative Adversarial Network [[paper]](https://arxiv.org/abs/1710.06090)
