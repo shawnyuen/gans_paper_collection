@@ -126,3 +126,4 @@
 ### Generative Adversarial Network based on Resnet for Conditional Image Restoration [[paper]](https://arxiv.org/abs/1707.04881)
 ### Face Transfer with Generative Adversarial Network [[paper]](https://arxiv.org/abs/1710.06090)
 ### SEGAN Speech Enhancement Generative Adversarial Network [[paper]](https://arxiv.org/abs/1703.09452) [[code]](https://github.com/santi-pdp/segan)
+### BEGAN Boundary Equilibrium Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10717)
