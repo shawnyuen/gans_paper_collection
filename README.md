@@ -41,7 +41,7 @@
 ### Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space [[Paper]](https://arxiv.org/abs/1612.00005)
 ### Unsupervised Learning for Physical Interaction through Video Prediction [[paper]](https://arxiv.org/abs/1605.07157)
 ### Generating Videos with Scene Dynamics [[paper]](https://arxiv.org/abs/1609.02612)
-### Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1604.04382)
+### Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1604.04382) [[code]](https://github.com/chuanli11/MGANs)
 ### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 ### Learning Temporal Transformations from Time-lapse Videos [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_16)
 ### Improved Techniques for Training GANs [[paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)
