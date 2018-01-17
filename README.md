@@ -130,3 +130,4 @@
 ### BEGAN Boundary Equilibrium Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10717)
 ### StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[paper]](https://arxiv.org/abs/1711.09020) [[Pytorch code]](https://github.com/yunjey/StarGAN)
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper]](https://arxiv.org/abs/1711.11585) [[code]](https://github.com/NVIDIA/pix2pixHD)
+### Generative Adversarial Networks An Overview [[paper]](https://arxiv.org/abs/1710.07035)
