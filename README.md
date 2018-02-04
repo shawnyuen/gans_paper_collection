@@ -21,7 +21,7 @@
 ### Photo-realistic Single Image Super-resolution Using a Generative Adversarial Network [[paper]](https://arxiv.org/abs/1609.04802) [[tf+tl code]](https://github.com/zsdonghao/SRGAN) [[Torch code]](https://github.com/junhocho/SRGAN) [[Torch code]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 ### Generating Images with Perceptual Similarity Metrics based on Deep Networks [[paper]](https://arxiv.org/abs/1602.02644)
 ### Generating Images with Recurrent Adversarial Networks [[paper]](https://arxiv.org/abs/1602.05110)
-### Generative Visual Manipulation on the Natural Image Manifold [[paper]](https://arxiv.org/abs/1609.03552)
+### Generative Visual Manipulation on the Natural Image Manifold [[paper]](https://arxiv.org/abs/1609.03552) [[code]](https://github.com/junyanz/iGAN) [[project]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/) [[video]](https://www.youtube.com/watch?v=9c4z6YsBGQ0)
 ### Generative Adversarial Text to Image Synthesis [[paper]](https://arxiv.org/abs/1605.05396)
 ### Learning What and Where to Draw [[paper]](https://arxiv.org/abs/1610.02454)
 ### Adversarial Training for Sketch Retrieval [[paper]](https://arxiv.org/abs/1607.02748)
