@@ -59,6 +59,7 @@
 ### Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring [[paper]](https://arxiv.org/abs/1612.02177) [[Torch code]](https://github.com/SeungjunNah/DeepDeblur_release)
 ### Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05424)
 ### Least Squares Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1611.04076) [[code]](https://github.com/xudonmao/LSGAN)
+### Inverting The Generator Of A Generative Adversarial Network [[paper]](https://arxiv.org/abs/1611.05644)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
@@ -134,3 +135,4 @@
 ### BEGAN Boundary Equilibrium Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1703.10717)
 ### StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[paper]](https://arxiv.org/abs/1711.09020) [[Pytorch code]](https://github.com/yunjey/StarGAN)
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper]](https://arxiv.org/abs/1711.11585) [[code]](https://github.com/NVIDIA/pix2pixHD)
+### Precise Recovery of Latent Vectors from Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.04782)
