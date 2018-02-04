@@ -1,6 +1,7 @@
 # GANsPaperCollection
 
 ## Review or Survey
+### NIPS 2016 Tutorial Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.00160)
 ### Generative Adversarial Networks An Overview [[paper]](https://arxiv.org/abs/1710.07035)
 
 ## 2014
