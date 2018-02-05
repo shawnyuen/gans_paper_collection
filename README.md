@@ -60,6 +60,7 @@
 ### Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05424)
 ### Least Squares Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1611.04076) [[code]](https://github.com/xudonmao/LSGAN)
 ### Inverting The Generator Of A Generative Adversarial Network [[paper]](https://arxiv.org/abs/1611.05644)
+### Stacked Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.04357)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
