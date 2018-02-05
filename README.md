@@ -67,6 +67,7 @@
 ### Neural Photo Editing with Introspective Adversarial Networks [[paper]](https://arxiv.org/abs/1609.07093)
 ### Ultra-Resolving Face Images by Discriminative Generative Networks [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_20)
 ### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[paper]](https://arxiv.org/abs/1610.02920)
+### Adversarially Learned Inference [[paper]](https://arxiv.org/abs/1606.00704)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
@@ -148,3 +149,5 @@
 ### Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html)
 ### Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf)
 ### DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[paper]](https://arxiv.org/abs/1706.02071)
+### MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification [[paper]](http://ieeexplore.ieee.org/document/8059820/)
+### Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.04722)
