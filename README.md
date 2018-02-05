@@ -63,6 +63,10 @@
 ### Inverting The Generator Of A Generative Adversarial Network [[paper]](https://arxiv.org/abs/1611.05644)
 ### Stacked Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.04357)
 ### Unrolled Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1611.02163)
+### Energy-based Generative Adversarial Network [[paper]](https://arxiv.org/abs/1609.03126)
+### Neural Photo Editing with Introspective Adversarial Networks [[paper]](https://arxiv.org/abs/1609.07093)
+### Ultra-Resolving Face Images by Discriminative Generative Networks [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_20)
+### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[paper]](https://arxiv.org/abs/1610.02920)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
@@ -140,3 +144,7 @@
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper]](https://arxiv.org/abs/1711.11585) [[code]](https://github.com/NVIDIA/pix2pixHD)
 ### Precise Recovery of Latent Vectors from Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.04782)
 ### Towards Principled Methods for Training Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.04862)
+### The Numerics of GANs [[paper]](https://arxiv.org/abs/1705.10461)
+### Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html)
+### Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf)
+### DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[paper]](https://arxiv.org/abs/1706.02071)
