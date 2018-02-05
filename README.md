@@ -14,6 +14,7 @@
 ### Adversarial Autoencoders [[paper]](https://arxiv.org/abs/1511.05644)
 ### Deep Multi-scale Video Prediction Beyond Mean Square Error [[paper]](https://arxiv.org/abs/1511.05440)
 ### Autoencoding beyond Pixels Using a Learned Similarity Metric [[paper]](https://arxiv.org/abs/1512.09300)
+### A Note on the Evaluation of Generative Models [[paper]](https://arxiv.org/abs/1511.01844)
 
 ## 2016
 ### Image-to-image Translation with Conditional Adversarial Networks [[paper]](https://arxiv.org/abs/1611.07004) [[Torch code]](https://github.com/phillipi/pix2pix) [[TF code]](https://github.com/affinelayer/pix2pix-tensorflow)
