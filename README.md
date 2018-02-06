@@ -151,3 +151,6 @@
 ### DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[paper]](https://arxiv.org/abs/1706.02071)
 ### MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification [[paper]](http://ieeexplore.ieee.org/document/8059820/)
 ### Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.04722)
+
+## 2018
+### Coupled generative adversarial stacked Auto-encoder: CoGASA [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300029)
