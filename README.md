@@ -156,3 +156,4 @@
 ## 2018
 ### Coupled generative adversarial stacked Auto-encoder: CoGASA [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300029)
 ### High-throughput, high-resolution Generated Adversarial Network Microscopy [[paper]](https://arxiv.org/abs/1801.07330)
+### Geometry Score A Method For Comparing Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1802.026640) [[code]](https://github.com/geom-score/geometry-score)
