@@ -158,3 +158,5 @@
 ### High-throughput, high-resolution Generated Adversarial Network Microscopy [[paper]](https://arxiv.org/abs/1801.07330)
 ### Geometry Score A Method For Comparing Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1802.026640) [[code]](https://github.com/geom-score/geometry-score)
 ### Mastering Sketching Adversarial Augmentation for Structured Prediction [[paper]](https://arxiv.org/abs/1703.08966)
+"TOG"
+### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
