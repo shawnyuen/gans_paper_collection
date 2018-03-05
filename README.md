@@ -145,6 +145,7 @@
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper]](https://arxiv.org/abs/1711.11585) [[code]](https://github.com/NVIDIA/pix2pixHD)
 ### Precise Recovery of Latent Vectors from Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.04782)
 ### Towards Principled Methods for Training Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.04862)
+### Wasserstein GAN [[paper]](https://arxiv.org/abs/1701.07875)
 ### The Numerics of GANs [[paper]](https://arxiv.org/abs/1705.10461)
 ### Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html)
 ### Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf)
@@ -152,6 +153,8 @@
 ### MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification [[paper]](http://ieeexplore.ieee.org/document/8059820/)
 ### Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.04722)
 ### Adversarial Stain Transfer for Histopathology Image Analysis [[paper]](http://ieeexplore.ieee.org/document/8170242/)
+### Geometrical Insights for Implicit Generative Modeling [[paper]](https://arxiv.org/abs/1712.07822)
+"Leon Bottou"
 
 ## 2018
 ### Coupled generative adversarial stacked Auto-encoder: CoGASA [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300029)
