@@ -163,3 +163,4 @@
 ### Mastering Sketching Adversarial Augmentation for Structured Prediction [[paper]](https://arxiv.org/abs/1703.08966)
 "TOG"
 ### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
+### Learning to Adapt Structured Output Space for Semantic Segmentation [[paper]](https://arxiv.org/abs/1802.10349)
