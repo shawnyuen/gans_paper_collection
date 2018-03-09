@@ -164,3 +164,4 @@
 "TOG"
 ### 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network [[paper]](https://arxiv.org/abs/1802.05656)
 ### Learning to Adapt Structured Output Space for Semantic Segmentation [[paper]](https://arxiv.org/abs/1802.10349)
+### A Study into the Similarity in Generator and Discriminator in GAN Architecture [[paper]](https://arxiv.org/abs/1802.07401)
