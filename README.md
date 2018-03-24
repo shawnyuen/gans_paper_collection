@@ -76,7 +76,7 @@
 ### Adversarial Networks for the Detection of Aggressive Prostate Cancer [[paper]](https://arxiv.org/abs/1702.08014)
 ### Generative Adversarial Residual Pairwise Networks for One Shot Learning [[paper]](https://arxiv.org/abs/1703.08033)
 ### GP-GAN Towards Realistic High-resolution Image Blending [[paper]](https://arxiv.org/abs/1703.07195)
-### Image De-raining Using a Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1701.05957)
+### Image De-raining Using a Conditional Generative Adversarial Network [[paper]](https://arxiv.org/abs/1701.05957), [[code]](https://github.com/hezhangsprinter/ID-CGAN)
 ### Semi-latent GAN Learning to Generate and Modify Facial Images from Attributes [[paper]](https://arxiv.org/abs/1704.02166)
 ### Loss-sensitive Generative Adversarial Networks on Lipschitz Densities [[paper]](https://arxiv.org/abs/1701.06264) [[code]](https://github.com/guojunq/lsgan)
 ### On the Effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1704.03971)
@@ -167,4 +167,4 @@
 ### A Study into the Similarity in Generator and Discriminator in GAN Architecture [[paper]](https://arxiv.org/abs/1802.07401)
 ### An Introduction to Image Synthesis with Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1803.04469)
 "text2image, image2image"
-### Densely Connected Pyramid Dehazing Network [[paper]](https://arxiv.org/abs/1803.08396)
+### Densely Connected Pyramid Dehazing Network [[paper]](https://arxiv.org/abs/1803.08396), [[code]](https://github.com/hezhangsprinter/DCPDN)
