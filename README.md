@@ -167,3 +167,4 @@
 ### A Study into the Similarity in Generator and Discriminator in GAN Architecture [[paper]](https://arxiv.org/abs/1802.07401)
 ### An Introduction to Image Synthesis with Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1803.04469)
 "text2image, image2image"
+### Densely Connected Pyramid Dehazing Network [[paper]](https://arxiv.org/abs/1803.08396)
