@@ -169,3 +169,4 @@
 "text2image, image2image"
 ### Densely Connected Pyramid Dehazing Network [[paper]](https://arxiv.org/abs/1803.08396), [[code]](https://github.com/hezhangsprinter/DCPDN)
 ### 3D Conditional Generative Adversarial Networks for High-quality PET Image Estimation at Low Dose [[paper]](https://www.sciencedirect.com/science/article/pii/S1053811918302507)
+### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
