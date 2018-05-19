@@ -157,6 +157,7 @@
 ### Geometrical Insights for Implicit Generative Modeling [[paper]](https://arxiv.org/abs/1712.07822)
 "Leon Bottou"
 ### Multi-Agent Diverse Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1704.02906)
+### Learning Face Age Progression: A Pyramid Architecture of GANs [[paper]](https://arxiv.org/abs/1711.10352)
 
 ## 2018
 ### Coupled generative adversarial stacked Auto-encoder: CoGASA [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300029)
