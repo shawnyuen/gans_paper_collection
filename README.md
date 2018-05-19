@@ -174,3 +174,4 @@
 ### 3D Conditional Generative Adversarial Networks for High-quality PET Image Estimation at Low Dose [[paper]](https://www.sciencedirect.com/science/article/pii/S1053811918302507)
 ### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
 ### Spectral Normalization for Generative Adversarial Networks [[paper]](https://openreview.net/forum?id=B1QRgziT-) [[code]](https://github.com/pfnet-research/sngan_projection)
+### PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup [[paper]](http://gfx.cs.princeton.edu/pubs/Chang_2018_PAS/index.php)
