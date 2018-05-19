@@ -68,6 +68,7 @@
 ### Ultra-Resolving Face Images by Discriminative Generative Networks [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_20)
 ### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[paper]](https://arxiv.org/abs/1610.02920)
 ### Adversarially Learned Inference [[paper]](https://arxiv.org/abs/1606.00704)
+### Generative Multi-Adversarial Networks [[paper]](https://arxiv.org/abs/1611.01673)
 
 ## 2017
 ### SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.01081)
@@ -155,6 +156,7 @@
 ### Adversarial Stain Transfer for Histopathology Image Analysis [[paper]](http://ieeexplore.ieee.org/document/8170242/)
 ### Geometrical Insights for Implicit Generative Modeling [[paper]](https://arxiv.org/abs/1712.07822)
 "Leon Bottou"
+### Multi-Agent Diverse Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1704.02906)
 
 ## 2018
 ### Coupled generative adversarial stacked Auto-encoder: CoGASA [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608018300029)
