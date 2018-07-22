@@ -175,3 +175,4 @@
 ### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
 ### Spectral Normalization for Generative Adversarial Networks [[paper]](https://openreview.net/forum?id=B1QRgziT-) [[code]](https://github.com/pfnet-research/sngan_projection)
 ### PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup [[paper]](http://gfx.cs.princeton.edu/pubs/Chang_2018_PAS/index.php)
+### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
