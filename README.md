@@ -176,3 +176,8 @@
 ### Spectral Normalization for Generative Adversarial Networks [[paper]](https://openreview.net/forum?id=B1QRgziT-) [[code]](https://github.com/pfnet-research/sngan_projection)
 ### PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup [[paper]](http://gfx.cs.princeton.edu/pubs/Chang_2018_PAS/index.php)
 ### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
+### Improving Shape Deformation in Unsupervised Image-to-Image Translation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.html)
+### To learn image super-resolution, use a GAN to learn how to do image degradation first ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Adrian_Bulat_To_learn_image_ECCV_2018_paper.html)
+### GANimation Anatomically-aware Facial Animation from a Single Image ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.html)
+### SwapNet Garment Transfer in Single View Images ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.html)
+### Modular Generative Adversarial Networks ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.html)
