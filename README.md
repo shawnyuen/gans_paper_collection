@@ -49,7 +49,7 @@
 ### Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1604.04382) [[code]](https://github.com/chuanli11/MGANs)
 ### Medical Image Synthesis with Context-aware Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.05362)
 ### Learning Temporal Transformations from Time-lapse Videos [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_16)
-### Improved Techniques for Training GANs [[paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)
+### Improved Techniques for Training GANs NIPS 2016 [[paper]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans)
 ### Mode Regularized Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1612.02136)
 ### Amortised MAP Inference for Image Super-resolution [[paper]](https://openreview.net/pdf?id=S1RP6GLle)
 ### Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts
@@ -89,7 +89,7 @@
 ### Face Aging With Conditional Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1702.01983)
 ### Outline Colorization through Tandem Adversarial Networks [[paper]](https://arxiv.org/abs/1704.08834)
 ### Real-Time Adaptive Image Compression [[paper]](https://arxiv.org/abs/1705.05823)
-### Improved Training of Wasserstein GANs [[paper]](https://arxiv.org/abs/1704.00028) [[code]](https://github.com/igul222/improved_wgan_training)
+### Improved Training of Wasserstein GANs NIPS 2017 [[paper]](https://arxiv.org/abs/1704.00028) [[code]](https://github.com/igul222/improved_wgan_training)
 ### The Cramer Distance as a Solution to Biased Wasserstein Gradients [[paper]](https://arxiv.org/abs/1705.10743) [[code]](https://github.com/jiamings/cramer-gan)
 ### Video Imagination from a Single Image with Transformation Generation [[paper]](https://arxiv.org/abs/1706.04124)
 ### Perceptual Generative Adversarial Networks for Small Object Detection [[paper]](https://arxiv.org/abs/1706.05274)
@@ -180,7 +180,7 @@
 ### Densely Connected Pyramid Dehazing Network [[paper]](https://arxiv.org/abs/1803.08396), [[code]](https://github.com/hezhangsprinter/DCPDN)
 ### 3D Conditional Generative Adversarial Networks for High-quality PET Image Estimation at Low Dose [[paper]](https://www.sciencedirect.com/science/article/pii/S1053811918302507)
 ### Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network [[paper]](https://arxiv.org/abs/1803.01417)
-### Spectral Normalization for Generative Adversarial Networks [[paper]](https://openreview.net/forum?id=B1QRgziT-) [[code]](https://github.com/pfnet-research/sngan_projection)
+### Spectral Normalization for Generative Adversarial Networks ICLR 2018 [[paper]](https://openreview.net/forum?id=B1QRgziT-) [[code]](https://github.com/pfnet-research/sngan_projection)
 ### PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup [[paper]](http://gfx.cs.princeton.edu/pubs/Chang_2018_PAS/index.php)
 ### Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network CVPR 2018 [[paper]](https://arxiv.org/abs/1802.09655)
 ### Improving Shape Deformation in Unsupervised Image-to-Image Translation ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.html) [[code]](https://github.com/brownvc/ganimorph/)
@@ -208,3 +208,5 @@
 ### Conditional Image-to-Image Translation CVPR 2018 [[paper]](https://arxiv.org/abs/1805.00251)
 ### Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency
 ### Diverse Image-to-Image Translation via Disentangled Representations ECCV 2018 [[paper]](https://arxiv.org/abs/1808.00948) [[code]](https://github.com/HsinYingLee/DRIT)
+### (BigGANs) Large Scale GAN Training for High Fidelity Natural Image Synthesis ICLR 2019 [[paper]](https://arxiv.org/abs/1809.11096)
+### 
