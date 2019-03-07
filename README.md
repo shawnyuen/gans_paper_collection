@@ -209,4 +209,6 @@
 ### Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency
 ### Diverse Image-to-Image Translation via Disentangled Representations ECCV 2018 [[paper]](https://arxiv.org/abs/1808.00948) [[code]](https://github.com/HsinYingLee/DRIT)
 ### (BigGANs) Large Scale GAN Training for High Fidelity Natural Image Synthesis ICLR 2019 [[paper]](https://arxiv.org/abs/1809.11096)
-### 
+
+## 2019
+### Self-Supervised Generative Adversarial Networks CVPR 2019 [[paper]](https://arxiv.org/abs/1811.11212)
