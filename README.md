@@ -213,3 +213,4 @@
 ## 2019
 ### Self-Supervised Generative Adversarial Networks CVPR 2019 [[paper]](https://arxiv.org/abs/1811.11212)
 ”arXiv v2: Self-Supervised GANs via Auxiliary Rotation Loss“
+### SinGAN: Learning a Generative Model from a Single Natural Image ICCV 2019 [[paper]](https://arxiv.org/abs/1905.01164)
