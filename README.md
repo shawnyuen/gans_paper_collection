@@ -1,8 +1,11 @@
-# GANsPaperCollection
+# gans_paper_collection
 
 ## Review or Survey
 ### NIPS 2016 Tutorial Generative Adversarial Networks [[paper]](https://arxiv.org/abs/1701.00160)
 ### Generative Adversarial Networks An Overview [[paper]](https://arxiv.org/abs/1710.07035)
+
+## 2023
+### Scaling up GANs for Text-to-Image Synthesis CVPR 2023 [[arXiv paper]](https://arxiv.org/abs/2303.05511) [[project]](https://mingukkang.github.io/GigaGAN/)
 
 ## 2014
 ### Generative Adversarial Nets [[paper]](https://papers.nips.cc/paper/5423-generative-adversarial-nets) [[code]](https://github.com/goodfeli/adversarial)
